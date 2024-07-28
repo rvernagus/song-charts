@@ -1,0 +1,48 @@
+A Hard Day's Night - The Beatles  1 2 3 4 5 6 b7
+G | 4/4 | 140 | Guitar            G a b C D e F
+
+<<Drums count in>>
+INTRO {0-5 HDN-1}   !Fadd9_ <<Ring for 8>>
+
+CHORUS              [G|Cadd9 G F G]x2
+
+VERSE               C D G|C7 G
+(But when I get home to you,)
+(I find the things that you do)
+
+BRIDGE              [G|Cadd9 G F G]
+
+VERSE               C D G|C7 G
+(So why on earth should I moan,)
+(cos when I get you alone)
+
+PRECHORUS           b e b  b
+                    G e C7 D
+
+CHORUS
+                    [G|C9 G F G]x2
+
+VERSE               C D G|C7 G
+(But when I get home to you,)
+(I find the things that you do)
+
+SOLO {0-6 HDN-2}    [G|Cadd9 G F G]x2
+
+VERSE {0-5 HDN-1}   C D G|C7 G
+(So why on earth should I moan,)
+(cos when I get you alone)
+
+PRECHORUS           b e b  b
+                    G e C7 D
+
+CHORUS              [G|Cadd9 G F G]x2
+
+VERSE               C D G|C7 G
+(But when I get home to you,)
+(I find the things that you do)
+
+OUTRO               G G|Cadd9 G R1 <<Volume fade out>>
+
+R1: e|3---1---|
+    B|-1-1-1-1|
+    G|--3---3-|
