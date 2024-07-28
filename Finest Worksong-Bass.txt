@@ -1,0 +1,38 @@
+Finest Worksong - R.E.M.  1 2  3  4 5  6  b7
+B | 4/4 | 94 | Bass       B c# d# E F# g# A
+
+RIFF {1-3 FWS} X X X R1 <<Guitar & drums only, bass comes in at bar 4>>
+
+VERSE          [B B B B]x2 <<R2>>
+
+CHORUS         E|F# F#x6 E|F# F#x4 <<R3>>
+
+RIFF           X X X R1
+
+VERSE          [B B B B]x2 <<R2>>
+
+CHORUS         E|F# F#x6 E|F# F#x4 <<R3>>
+(Oooh hooooo) Your finest hour x2
+
+RIFF           X X X R1
+
+VERSE          [B B B B]x2 <<R2>>
+
+CHORUS         E|F# F#x6 E|F# F#x4 <<R3>>
+(Oooh hooooo) Your finest hour x2
+
+INSTRUMENTAL   A A A A R4 X R4 X
+
+VERSE          [B B B B]x2 <<R2>>
+
+CHORUS         [E|F# F#x6 E|F# F#x4]x2 <<R3>>
+(Oooh hooooo) Your finest hour x4
+
+OUTRO          X X X X R5
+
+RIFF1: e|-19-7---| RIFF2: A|-0-2-2--2|
+       B|-----0–-| 
+       E|-------2| RIFF3: A|-777-9-99..|
+
+RIFF4: D|-5\4----| RIFF5: G|------4------2-..-4-2-|
+       A|-----5/7|        A|-02202--02202--..-----|
