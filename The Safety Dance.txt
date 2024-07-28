@@ -1,0 +1,26 @@
+The Safety Dance   1 2 3   4 5 6 b7
+Men Without Hats   C d eb5 F g a Bb
+C,f | 4/4 | 102    1 2 b3 4  5 6   b7
+                   f g Ab Bb c db5 Eb
+
+INTRO {??}          C C C C
+
+VERSE               [C Bb|F F|Bb C|G]x2
+
+BRIDGE (f)          f|Bb Eb|Ab f|Bb Eb|Ab
+
+VERSE               [C Bb|F F|Bb C|G]x2
+
+BRIDGE (f)          [f|Bb Eb|Ab f|Bb Eb|Ab]x2
+
+CHORUS              C|G D|A C|G D|A
+
+INSTRUMENTAL        C C C C
+
+VERSE               [C Bb|F F|Bb C|G]x2
+
+BRIDGE (f)          [f|Bb Eb|Ab f|Bb Eb|Ab]x2
+
+CHORUS              [C|G D|A C|G D|A]x2
+
+OUTRO               C C C C
