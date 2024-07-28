@@ -1,0 +1,40 @@
+Workin'For A Livin' - Huey Lewis  1 2 3  4 5 6  b7
+A | 4/4 | 158                     A b c# D E f# G
+
+INTRO {0-4 W4L}       [A A A A]x2
+
+VERSE                 [A A A A]x2
+
+CHORUS                D D A A
+                      G D A^
+Workin' for a livin' (workin')
+Workin' for a livin' (workin')
+Workin' for a livin', livin' and workin' (aaaaah oooooh)
+
+BREAK                 A A A A
+
+VERSE                 [A A A A]x2
+
+CHORUS                D D A A
+                      G D A^
+Workin' for a livin' (workin')
+Workin' for a livin' (workin')
+Workin' for a livin', livin' and workin' (aaaaah oooooh)
+
+BRIDGE                G|D G|D G|D G|D
+                      G|D G|D G|D E
+
+SOLO                  [A A A A]x2
+                      D D A A
+                      G D A A
+
+VERSE                 [A A A A]x2
+
+CHORUS                D D A A
+                      [G D A [1,2 A] [3 A^]]x3
+Workin' for a livin' (workin')
+Workin' for a livin' (workin')
+Workin' for a livin', livin' and workin' (aaaaah oooooh)
+
+OUTRO                 A A A A
+                      A A A A^|!A_
