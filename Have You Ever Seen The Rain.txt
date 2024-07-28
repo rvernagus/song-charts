@@ -1,0 +1,23 @@
+Have You Ever Seen The Rain? 1 2 3 4 5 6 7
+CCR                          C d e F G a bb5
+C | 4/4 | 113 | Guitar
+
+INTRO {??}          a F C C <<Guitar 1>>
+                    !a_ !C_ <<Guitar 2>>
+                    C C
+
+VERSE               [C C C C
+                     G G C C]
+
+CHORUS              [F G C|C/B a|a/G]
+                    F G C C
+
+VERSE               [C C C C
+                     G G C C]
+
+CHORUS              [F G C|C/B a|a/G]
+                    F G C C
+
+CHORUS              [F G C|C/B a|a/G]
+                    F G C C
+                    C_
