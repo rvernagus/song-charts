@@ -4,23 +4,23 @@ C | 4/4 | 136 | Guitar
 
 INTRO {0-1 BSM-1}    R1x8 <<Solo guitar>>
                      R1x8 <<Add drums, bass>>
-                     [d|F d|C d|F d|C]
+                     [d|F d|C d|F d|C]x2
 Hey hey hey hey
 (There’ll be food on the table tonight)
 Hey hey hey hey
 (There’ll be pay in your pocket tonight)
 
 VERSE                [C a C a
-                      F G a [1 a|bb5] [2 a]]
+                      F G a [1 a|bb5] [2 a]]x2
 
-CHORUS               [d|F d|C d|F d|C]
+CHORUS               [d|F d|C d|F d|C]x2
 But if I work all day in the blue sky mine
 (There’ll be food on the table tonight)
 Still I walk up and down on the blue sky mine
 (There’ll be pay in your pocket tonight)
 
 VERSE                [C a C a
-                      F G a [1 a|bb5] [2 a]]
+                      F G a [1 a|bb5] [2 a]]x2
 
 BREAK {0-2 BSM-2}    d d G G6 d d G F|Bb
 
