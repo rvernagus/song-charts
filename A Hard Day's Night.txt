@@ -10,7 +10,7 @@ VERSE               C D G|C7 G
 (But when I get home to you,)
 (I find the things that you do)
 
-BRIDGE              [G|Cadd9 G F G]
+BRIDGE              [G|Cadd9 G F G]x2
 
 VERSE               C D G|C7 G
 (So why on earth should I moan,)
